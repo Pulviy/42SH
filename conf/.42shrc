@@ -1,0 +1,7 @@
+alias ne emacs
+alias c clear
+alias l ls -l
+alias a ./42sh
+alias z echo aze
+alias e echo hello
+alias ls ls --color=auto
